@@ -1,5 +1,5 @@
 # <h1 align="center"> Hi I'm Omar Mohamed </h1>
-# <h2 align="center">A MIS student and Front End Developer </h2> 
+<h3 align="center">A MIS student and Front End Developer </h3> 
 I'm currently working on implement my <strong>Vue & pinia</strong> skills on different projects<br>Currently working as freelancer and also i seek to have a job in software company<br>Learning the progressive framework Vue.js, pinia, tailwind and, React.js<br>life isn't always <strong>#000000</strong> and <strong>#FFFFFF ;)</strong> 
 
 
