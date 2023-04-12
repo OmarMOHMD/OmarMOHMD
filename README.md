@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on implement my Vue & pinia skills on different projects<br>I'm currently work as freelancer and also i seek to have a job in software company<br>I'm currently learning the progressive framework Vue.js, pinia, tailwind, React.js<br>"THING ARENT ALWAYS #000000 AND #FFFFFF" ;)
+I'm currently working on implement my Vue & pinia skills on different projects<br>I'm currently work as freelancer and also i seek to have a job in software company<br>I'm currently learning the progressive framework Vue.js, pinia, tailwind, React.js<br>"life isn't always #000000 AND #FFFFFF" ;)
 
 
 ## 🌐 Socials:
