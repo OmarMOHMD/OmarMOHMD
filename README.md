@@ -1,6 +1,10 @@
 # <h1 align="center"> ![coding](https://user-images.githubusercontent.com/89871900/231942617-3de08522-773d-4a60-b19b-6c96ed3a7886.png) Hi I'm Omar Mohamed </h1>
-<h3 align="center">A MIS student and Front End Developer </h3> 
-I'm currently working on implement my <strong>Vue & pinia</strong> skills on different projects<br>Currently working as freelancer and also i seek to have a job in software company<br>Learning the progressive framework Vue.js, pinia, tailwind and, React.js<br>life isn't always <strong>#000000</strong> and <strong>#FFFFFF ;)</strong> 
+<h3 align="center">A MIS student and Front End Developer </h3>
+<div align="center">
+<strong> 
+I'm currently working on implement my Vue & pinia skills on different projects<br>Currently working as freelancer and also i seek to have a job in software company<br>Learning the progressive framework Vue.js, pinia, tailwind and, React.js<br>life isn't always #000000 and <strong>#FFFFFF ;)
+</strong> 
+</div>
 
 ## ![www](https://user-images.githubusercontent.com/89871900/231941863-ed10659d-7fd6-4b31-a464-752d94d0a8eb.png)Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-mohamed-/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@OmarMohamed-cu8jz/) 
