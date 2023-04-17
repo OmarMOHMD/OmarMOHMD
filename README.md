@@ -7,8 +7,10 @@ I'm currently working on implement my Vue & pinia skills on different projects<b
 </strong> 
 </div>
 
-## ![internet](https://user-images.githubusercontent.com/89871900/231955884-6c48803c-da8d-4b5a-9f42-05abe5e46115.png) Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-mohamed-/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@OmarMohamed-cu8jz/) 
+## ![www](https://user-images.githubusercontent.com/89871900/232571725-245a7136-ea6a-4193-8769-4410fee93361.png) Contact me:
+
+[![linkedin](https://user-images.githubusercontent.com/89871900/232568305-ffc4dde7-6a00-4299-b7bf-5077d6eb4677.png)](https://www.linkedin.com/in/omar-mohamed-mohamed-/) [![media](https://user-images.githubusercontent.com/89871900/232567840-6c98b8dc-aba0-4e6f-b0c0-5f48585df5fa.png)
+](https://www.youtube.com/@OmarMohamed-cu8jz/)
 
 # 💻 Tech Stack:
 
