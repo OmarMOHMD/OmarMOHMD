@@ -14,7 +14,7 @@
 
 
 ## 📞 Contact me: 
-<a href="https://www.linkedin.com/in/omar-mohamed-mohamed-/" target="_blank">[![linkedin_blue](https://user-images.githubusercontent.com/89871900/233835553-2a2d0d64-7388-48de-afb3-13ad5a7db412.png)]</a>&nbsp;&nbsp; <a href="https://www.youtube.com/@OmarMohamed-cu8jz/" target="_blank">[![youtube_rd](https://user-images.githubusercontent.com/89871900/233835597-966c902a-9df5-48b3-9396-5863d5ecb765.png)]</a> 
+<a href="https://www.linkedin.com/in/omar-mohamed-mohamed-/" target="_blank">![linkedin_blue](https://user-images.githubusercontent.com/89871900/233835553-2a2d0d64-7388-48de-afb3-13ad5a7db412.png)</a>&nbsp;&nbsp; <a href="https://www.youtube.com/@OmarMohamed-cu8jz/" target="_blank">![youtube_rd](https://user-images.githubusercontent.com/89871900/233835597-966c902a-9df5-48b3-9396-5863d5ecb765.png)</a> 
 
 # :electron: Tech Stack: 
 
