@@ -6,7 +6,7 @@
 <ul>
 <li>Currently working on implement my Vue & pinia skills on different projects</li>
 <li>Currently working as freelancer and also i seek to have a job in software company</li>
-<li>Learning the progressive framework Vue.js, pinia, tailwind and, React.js</li>
+<li>Learning data structures with c++, and the progressive framework Vue.js, pinia, tailwind and, React.js</li>
 <li>life isn't always #000000 and <strong>#FFFFFF ;)</li>
 </ul>
 </strong> 
