@@ -12,7 +12,8 @@
 </strong> 
 
 ## 📞 Contact me: 
-<a href="https://www.linkedin.com/in/omar-mohamed-mohamed-/" target="_blank">![linkedin_blue](https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png)</a>&nbsp;&nbsp; <a href="https://www.youtube.com/@OmarMohamed-cu8jz/" target="_blank">![youtube_rd](https://user-images.githubusercontent.com/89871900/234066026-f376261e-5276-4fd4-bc72-a6c44ce8d998.png)</a> 
+<a href="https://www.linkedin.com/in/omar-mohamed-mohamed-/" target="_blank">![linkedin_blue](https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png)</a>&nbsp;&nbsp; <a href="https://www.youtube.com/@OmarMohamed-cu8jz/" target="_blank">![youtube_rd](https://user-images.githubusercontent.com/89871900/234066026-f376261e-5276-4fd4-bc72-a6c44ce8d998.png)</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMOHMD&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## :electron: Tech Stack: 
 
