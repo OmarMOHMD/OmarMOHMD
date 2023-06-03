@@ -1,4 +1,4 @@
-## <h1 id="format">🧑‍💻 Hi I'm Omar Mohamed </h1>
+## <h1 id="format">🧑‍💻 Hi I'm Omar Muhammed </h1>
 
 <h3>&nbsp;&nbsp; A MIS student and Full Stack Developer</h3>
 
