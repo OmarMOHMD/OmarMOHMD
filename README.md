@@ -2,15 +2,6 @@
 
 <h3>&nbsp;&nbsp;🧑‍💻💰A MIS student and Full Stack Developer</h3>
 
-<strong align="left"> 
-<ul>
-<li>Currently working on implement my Vue & pinia skills on different projects</li>
-<li>Currently working as freelancer and also i seek to have a job in software company</li>
-<li>Learning data structures with c++, and the progressive framework Vue.js, pinia, tailwind and, React.js</li>
-<li>life isn't always #000000 and <strong>#FFFFFF ;)</li>
-</ul>
-</strong> 
-
 ## 📞 Contact me: 
 <a href="https://www.linkedin.com/in/omar-mohamed-mohamed-/" target="_blank">![linkedin_blue](https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png)</a>&nbsp;&nbsp; <a href="https://www.youtube.com/@OmarMohamed-cu8jz/" target="_blank">![youtube_rd](https://user-images.githubusercontent.com/89871900/234066026-f376261e-5276-4fd4-bc72-a6c44ce8d998.png)</a>
 
