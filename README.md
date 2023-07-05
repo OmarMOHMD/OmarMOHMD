@@ -14,5 +14,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-![Snake animation](https://github.com/OmarMOHMD/OmarMOHMD/blob/output/github-contribution-grid-snake.svg)
