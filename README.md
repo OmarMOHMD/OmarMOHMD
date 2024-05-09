@@ -14,6 +14,7 @@
 ---
 
 [![count_visitors](https://visitcount.itsvg.in/api?id=OmarMOHMD&icon=6&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=OmarMOHMD&label=&color=2&pretty=false)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
