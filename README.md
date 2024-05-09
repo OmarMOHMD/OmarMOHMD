@@ -11,9 +11,7 @@
 ![image](https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/cef72eaf-e90a-4527-bc03-076684c783df)
 
 <br>
----
 
-[![count_visitors](https://visitcount.itsvg.in/api?id=OmarMOHMD&icon=6&color=6)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=OmarMOHMD&label=&color=2&pretty=false)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
