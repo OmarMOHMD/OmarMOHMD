@@ -12,6 +12,7 @@
 
 ## :electron: Tech Stack:
 
+<div style="position:inline;">
 <img src="https://user-images.githubusercontent.com/89871900/231952815-9491f8e1-d392-43e5-93ab-f1d7ad58cc99.png" alt="C++" width="70px">
 <img src="https://user-images.githubusercontent.com/89871900/235456879-46160f60-9af0-4983-9b8a-40dd73d84723.png" alt="HTML5" width="70px">
 <img src="https://user-images.githubusercontent.com/89871900/231952740-1c7f143a-4b3d-40e1-9d4f-d4a420e239e7.png" alt="CSS3" width="70px">
@@ -36,6 +37,7 @@
 <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/b88163ba-581d-4096-b834-828969870807" alt="AWS" width="70px">
 <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/6b24dadc-0935-4859-8a39-a43a4facb2fb" alt="GCP" width="70px">
 <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/ab9a0a62-a761-4da1-a5f7-5becab4f31f6" alt="Prometheus" width="70px">
+</div>
 
 [![count_visitors](https://visitcount.itsvg.in/api?id=OmarMOHMD&icon=6&color=6)](https://visitcount.itsvg.in)
 
