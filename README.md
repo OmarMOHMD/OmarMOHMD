@@ -4,10 +4,10 @@
 
 ## 🔗 Contact me:
 <a href="https://www.linkedin.com/in/omar-mohamed-mohamed-/" target="blank">
-  <img src="https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png" alt="LinkedIn" width="50px">
-</a>
+  <img src="https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png" alt="LinkedIn" width="30px">
+</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.youtube.com/@OmarMohamed-cu8jz/" target="blank">
-  <img src="https://user-images.githubusercontent.com/89871900/234066026-f376261e-5276-4fd4-bc72-a6c44ce8d998.png" alt="YouTube" width="50px">
+  <img src="https://user-images.githubusercontent.com/89871900/234066026-f376261e-5276-4fd4-bc72-a6c44ce8d998.png" alt="YouTube" width="30px">
 </a>
 
 ## :electron: Tech Stack:
