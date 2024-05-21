@@ -31,7 +31,7 @@
   <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/bf47cbc6-44e9-477a-913e-bf678f95463d" alt="Python" width="50px">
   <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/d974905c-b78f-4b28-9521-79de282b4098" alt="Docker" width="50px">
   <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/652b4493-5627-4407-aa1a-3ec71df8aa9b" alt="Kubernetes" width="50px">
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/d1a99dbb-64cc-42db-8e5c-4fcff89cf8a2" alt="Jenkins" width="50px">
+  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/d1a99dbb-64cc-42db-8e5c-4fcff89cf8a2" alt="Jenkins" width="50px" hight="50px">
   <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/698998ff-c1ed-4a7b-84ab-0d4fbc1c91ff" alt="Ansible" width="50px">
   <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/bfafe525-8d0e-418a-a77a-8fbb4f673268" alt="Terraform" width="50px">
   <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/b88163ba-581d-4096-b834-828969870807" alt="AWS" width="50px">
