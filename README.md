@@ -1,24 +1,21 @@
 # A DevOps Engineer
 ## Learning :electron:
 <div style="position:inline;">
-  <img src="https://user-images.githubusercontent.com/89871900/231952815-9491f8e1-d392-43e5-93ab-f1d7ad58cc99.png" alt="C++" width="50px">
-  
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/6ee908d2-6a9e-40ea-81e3-63e226807f27" alt="Linux" width="50px">
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/e5cb7492-9ec5-4a43-aee2-2563a43b7506" alt="Bash" width="50px">
-  
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/d974905c-b78f-4b28-9521-79de282b4098" alt="Docker" width="50px">
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/652b4493-5627-4407-aa1a-3ec71df8aa9b" alt="Kubernetes" width="50px">
-  <img width="50" height="50" alt="jenkins" src="https://github.com/user-attachments/assets/83cd447d-e184-4d32-b2d2-ecd8b0dc69ab" />
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/698998ff-c1ed-4a7b-84ab-0d4fbc1c91ff" alt="Ansible" width="50px">
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/bfafe525-8d0e-418a-a77a-8fbb4f673268" alt="Terraform" width="50px">
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/b88163ba-581d-4096-b834-828969870807" alt="AWS" width="50px">
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/6b24dadc-0935-4859-8a39-a43a4facb2fb" alt="GCP" width="50px">
-  <img src="https://github.com/OmarMOHMD/OmarMOHMD/assets/89871900/ab9a0a62-a761-4da1-a5f7-5becab4f31f6" alt="Prometheus" width="50px">
+  <img width="512" height="512" alt="linux" src="https://github.com/user-attachments/assets/636b1111-e36f-4d1f-96c3-10bd5b32a74c" />
+<img width="512" height="512" alt="bash" src="https://github.com/user-attachments/assets/7e72a21c-1ef9-4def-8edf-95b59761ba55" />
+<img width="512" height="512" alt="docker" src="https://github.com/user-attachments/assets/c5c3f6a6-4f23-4e46-a0a2-e6f19a48d002" />
+<img width="228" height="221" alt="kubernetes" src="https://github.com/user-attachments/assets/33b9829a-e6bc-426e-acde-4cbf1491eb78" />
+<img width="191" height="264" alt="jenkins" src="https://github.com/user-attachments/assets/9092e8b8-e58f-4920-8ad0-6b6d2642bbd0" />
+![ansible](https://github.com/user-attachments/assets/365c3102-2c90-48ef-a970-b4192ce53266)
+<img width="512" height="512" alt="terraform" src="https://github.com/user-attachments/assets/8d61b2fa-6f71-4890-b474-a51691fdb7dc" />
+<img width="148" height="148" alt="aws" src="https://github.com/user-attachments/assets/88459411-8b01-4f59-867d-8694a86efa96" />
+<img width="512" height="512" alt="gcp" src="https://github.com/user-attachments/assets/ddd98eb9-4d1e-4bb2-9570-9a099e7e32ea" />
+<img width="225" height="224" alt="prom" src="https://github.com/user-attachments/assets/b8c3bc23-91b0-451a-96f2-e759d0478b20" />
 </div>
 
-![censor](https://github.com/user-attachments/assets/02d62489-1979-4bc6-b873-87d0f86c5031)
+![censor](https://github.com/user-attachments/assets/502255d2-ed83-4e32-8694-9e8b9fada181)
 
-## 🔗_Connect..
+## Connect 🔗
 <a href="https://www.linkedin.com/in/omar-muhammed-muhammed" target="blank">
   <img src="https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png" alt="LinkedIn" width="30px">
 </a>
