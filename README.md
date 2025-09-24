@@ -1,7 +1,6 @@
-# A DevOps Engineer
-### Hi there 👋 I'm Omar Muhammed
+### Hi there 👋 I'm Omar Muhammed!
 
-DevOps & Cloud enthusiast who loves building reliable, automated systems.  
+A DevOps & Cloud enthusiast who loves building reliable, automated systems.  
 I enjoy experimenting with Docker, Kubernetes, Terraform, and CI/CD pipelines.  
 Always learning—whether it’s a new tech stack or a better way to solve problems.  
 ⚡Fun Fact :I never miss a good cup of coffee while debugging.
