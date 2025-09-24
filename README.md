@@ -1,4 +1,11 @@
 # A DevOps Engineer
+# Hi there 👋 I'm Omar Mohamed
+
+DevOps & Cloud enthusiast who loves building reliable, automated systems.  
+I enjoy experimenting with Docker, Kubernetes, Terraform, and CI/CD pipelines.  
+Always learning—whether it’s a new tech stack or a better way to solve problems.  
+⚡Fun Fact :I never miss a good cup of coffee while debugging.
+
 ## Learning :electron:
 <div style="position:inline;">
   <img width="50" height="50" alt="linux" src="https://github.com/user-attachments/assets/636b1111-e36f-4d1f-96c3-10bd5b32a74c" />
