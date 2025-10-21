@@ -7,21 +7,19 @@ Always learning—whether it’s a new tech stack or a better way to solve probl
 
 ## Learning :electron:
 <div style="position:inline;">
-  <img width="50" height="50" alt="linux" src="https://github.com/user-attachments/assets/636b1111-e36f-4d1f-96c3-10bd5b32a74c" />
-  <img width="50" height="50" alt="bash" src="https://github.com/user-attachments/assets/7e72a21c-1ef9-4def-8edf-95b59761ba55" />
-    <img width="50" height="70" alt="ansible" src="https://github.com/user-attachments/assets/365c3102-2c90-48ef-a970-b4192ce53266" />
-  <img width="50" height="50" alt="terraform" src="https://github.com/user-attachments/assets/8d61b2fa-6f71-4890-b474-a51691fdb7dc" />
-  <img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/c5c3f6a6-4f23-4e46-a0a2-e6f19a48d002" />
- <img width="50" height="50" alt="K8S" src="https://github.com/user-attachments/assets/89ac7c19-808c-49de-8377-a7685156f3c1" />
-<img width="50" height="50" alt="jenkins" src="https://github.com/user-attachments/assets/cb3a9376-328f-4b16-ae77-b17491699a98" />
-  <img width="50" height="50" alt="aws" src="https://github.com/user-attachments/assets/88459411-8b01-4f59-867d-8694a86efa96" />
-  <img width="50" height="50" alt="gcp" src="https://github.com/user-attachments/assets/ddd98eb9-4d1e-4bb2-9570-9a099e7e32ea" />
-  <img width="50" height="50" alt="prom" src="https://github.com/user-attachments/assets/a0c51890-7b1f-4a99-92a7-5cb68680bd4f" />
-
+<img width="50" height="50" alt="linux" src="https://github.com/user-attachments/assets/bf00c315-2e78-4c66-b5c6-8e5c8c7d9715" />
+<img width="50" height="50" alt="bash" src="https://github.com/user-attachments/assets/244f866b-fbac-426c-8651-96e38319290f" />
+<img width="50" height="50" src="https://github.com/user-attachments/assets/6a477744-5a67-42ec-8b04-ef8897122223" />
+<img width="50" height="50" alt="terraform" src="https://github.com/user-attachments/assets/88975bce-7574-4384-8088-e3794c8deb5a" />
+<img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/ece0b28a-ddfd-46f0-bbff-3de611b37e5a" />
+<img width="50" height="50" alt="K8S-removebg-preview" src="https://github.com/user-attachments/assets/66b59810-0cc3-48d6-b742-50be3a03ff59" />
+<img width="50" height="50" alt="jenkins" src="https://github.com/user-attachments/assets/f8a97002-e9b8-4899-a3f5-f14681968093" />
+<img width="50" height="50" alt="aws" src="https://github.com/user-attachments/assets/8d7b644c-ae2d-4b95-b985-4d4d0c1fcbdf" />
+<img width="50" height="50" alt="gcp" src="https://github.com/user-attachments/assets/59048ffa-c5aa-4cf7-ac09-3eeb898fe3e4" />
+<img width="50" height="50" alt="prom" src="https://github.com/user-attachments/assets/129a3f7a-a3ec-4ecc-b55f-b1a982f32a36" />
 </div>
 
-![Future_speed](https://github.com/user-attachments/assets/676290d6-a226-427f-83e3-cafa2723a8a2)
-
+![Future_speed](https://github.com/user-attachments/assets/968f1447-9dce-4b37-ab5a-e0e1680ec258)
 
 ## Connect 🔗
 <a href="https://www.linkedin.com/in/omar-muhammed-muhammed" target="blank">
