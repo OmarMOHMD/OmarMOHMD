@@ -19,8 +19,6 @@ Always learning—whether it’s a new tech stack or a better way to solve probl
 <img width="50" height="50" alt="prom" src="https://github.com/user-attachments/assets/129a3f7a-a3ec-4ecc-b55f-b1a982f32a36" />
 </div>
 
-![Future_speed](https://github.com/user-attachments/assets/968f1447-9dce-4b37-ab5a-e0e1680ec258)
-
 ## Connect 🔗
 <a href="https://www.linkedin.com/in/omar-muhammed-muhammed" target="blank">
   <img src="https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png" alt="LinkedIn" width="30px">
