@@ -1,9 +1,16 @@
-### Hi there 👋 I'm Omar Mohamed!
+###👋 Hi there, I'm Omar Mohamed
+🥊 A fighter mindset — inside and outside tech.
+By day, I build scalable cloud infrastructure and automated systems.
+By night, I train in MMA, boxing, and wrestling.
+I bring the same discipline, resilience, and focus from combat sports into engineering reliable technology.
 
-A DevOps & Cloud enthusiast who loves building reliable, automated systems.  
-I enjoy experimenting with Docker, Kubernetes, Terraform, and CI/CD pipelines.  
-Always learning—whether it’s a new tech stack or a better way to solve problems.  
-⚡Fun Fact :I never miss a good cup of coffee while debugging.
+⚙️I approach technology like a fight:
+
+Adapt fast . Automate everything . Never break under pressure
+
+🚀 Turning complex systems into smooth, resilient machines — because great systems, like great fighters, are built through pressure, consistency, and continuous improvement.
+
+☕ Coffee-powered. Problem-driven. Always improving.
 
 ## Learning :electron:
 <div style="position:inline;">
