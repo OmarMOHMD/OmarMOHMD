@@ -1,4 +1,4 @@
-### 👋Hi there, I'm Omar Mohamed
+### Hi there👋, I'm Omar Mohamed
 🥊 A fighter mindset — inside and outside tech.
 
 By day, I build scalable cloud infrastructure and automated systems.
@@ -34,7 +34,7 @@ Adapt fast . Automate everything . Never break under pressure
   <img src="https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png" alt="LinkedIn" width="30px">
 </a>
 
-### ✨ Motivation
+###  Motivation✨
 
 > **﴿ كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ ﴾**  
 > — البقرة: 216
