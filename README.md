@@ -1,4 +1,4 @@
-###👋 Hi there, I'm Omar Mohamed
+### 👋Hi there, I'm Omar Mohamed
 🥊 A fighter mindset — inside and outside tech.
 By day, I build scalable cloud infrastructure and automated systems.
 By night, I train in MMA, boxing, and wrestling.
