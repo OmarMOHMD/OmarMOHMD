@@ -1,7 +1,10 @@
 ### 👋Hi there, I'm Omar Mohamed
 🥊 A fighter mindset — inside and outside tech.
+
 By day, I build scalable cloud infrastructure and automated systems.
+
 By night, I train in MMA, boxing, and wrestling.
+
 I bring the same discipline, resilience, and focus from combat sports into engineering reliable technology.
 
 ⚙️I approach technology like a fight:
