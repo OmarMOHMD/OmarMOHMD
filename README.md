@@ -1,15 +1,9 @@
-### Hi there👋, I'm Omar Mohamed
+### Hi there, I'm Omar Mohamed
 🥊 A fighter mindset — inside and outside tech.
 
 By day, I build scalable cloud infrastructure and automated systems.
 
 By night, I train in MMA, boxing, and wrestling.
-
-I bring the same discipline, resilience, and focus from combat sports into engineering reliable technology.
-
-⚙️I approach technology like a fight:
-
-Adapt fast . Automate everything . Never break under pressure
 
 🚀 Turning complex systems into smooth, resilient machines — because great systems, like great fighters, are built through pressure, consistency, and continuous improvement.
 
@@ -34,7 +28,7 @@ Adapt fast . Automate everything . Never break under pressure
   <img src="https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png" alt="LinkedIn" width="30px">
 </a>
 
-###  Motivation✨
+###  Motivation ✨
 
 > **﴿ كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ ﴾**  
 > — البقرة: 216
