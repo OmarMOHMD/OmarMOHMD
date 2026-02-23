@@ -32,7 +32,6 @@ By night, I train in MMA, boxing, and wrestling.
 </a>
 <a href="https://discord.com/users/909158608338571264" target="blank">
 <img width="50" height="50" alt="discord" src="https://github.com/user-attachments/assets/4e40539f-8600-44b4-bcd4-8c77206fd559" />
-
 </a>
 
 ###  Motivation ✨
