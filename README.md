@@ -25,7 +25,14 @@ By night, I train in MMA, boxing, and wrestling.
 
 ## Connect 🔗
 <a href="https://www.linkedin.com/in/omar-muhammed-muhammed" target="blank">
-  <img src="https://user-images.githubusercontent.com/89871900/234065929-672992c2-bb60-40bb-a8e3-9016a9d8ffa4.png" alt="LinkedIn" width="30px">
+  <img alt="linkedin-black-icon" src="https://github.com/user-attachments/assets/e0f72757-cafa-42f5-96b5-21b1221a2e76" alt="LinkedIn" width="50px"/>
+</a>
+<a href="https://www.reddit.com/user/Ok_Baker5114" target="blank">
+  <img width="50" height="50" alt="reddit" src="https://github.com/user-attachments/assets/7aa8215e-a431-421f-b3d3-6d635586742d" />
+</a>
+<a href="https://discord.com/users/909158608338571264" target="blank">
+<img width="50" height="50" alt="discord" src="https://github.com/user-attachments/assets/4e40539f-8600-44b4-bcd4-8c77206fd559" />
+
 </a>
 
 ###  Motivation ✨
