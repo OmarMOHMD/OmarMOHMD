@@ -25,7 +25,7 @@ By night, I train in MMA, boxing, and wrestling.
 
 ## Connect 🔗
 <a href="https://gitlab.com/OmarMOHMD" target="blank">
-  <img width="662" height="377" alt="gitlab-logo-version-control-continuous-integration-issue-tracking-system" src="https://github.com/user-attachments/assets/67f0e2d2-6007-4dc7-bc4c-e1e28e4fffda" />
+  <img width="50" height="50" alt="gitlab-logo-version-control-continuous-integration-issue-tracking-system" src="https://github.com/user-attachments/assets/67f0e2d2-6007-4dc7-bc4c-e1e28e4fffda" />
 
 </a>
 <a href="https://www.linkedin.com/in/omar-muhammed-muhammed" target="blank">
