@@ -10,12 +10,9 @@ By night, I train in MMA, boxing, and wrestling.
 ☕ Coffee-powered. Problem-driven. Always improving.
 
 ## Connect 🔗
-<a href="https://gitlab.com/OmarMOHMD" target="_blank">
-<img width="50" height="50" alt="gitlab" src="https://github.com/user-attachments/assets/725b83ae-5479-4cd6-9dd9-fad6a085cb8d" />GitLab</a>
-<a href="https://www.linkedin.com/in/omar-muhammed-muhammed" target="_blank">
-  <img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/25d2c9c5-9e95-4aad-a2a6-0653f80ac260" />Linkedin</a>
-  <a href="https://discord.com/users/909158608338571264" target="_blank">
-    <img width="50" height="50" alt="discord" src="https://github.com/user-attachments/assets/00432c36-ad51-4848-981d-d8f71413a901" />Discord</a>
+
+| [<img width="50" height="50" alt="GitLab" src="https://github.com/user-attachments/assets/725b83ae-5479-4cd6-9dd9-fad6a085cb8d" />](https://gitlab.com/OmarMOHMD) | [<img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/25d2c9c5-9e95-4aad-a2a6-0653f80ac260" />](https://www.linkedin.com/in/omar-muhammed-muhammed) | [<img width="50" height="50" alt="Discord" src="https://github.com/user-attachments/assets/00432c36-ad51-4848-981d-d8f71413a901" />](https://discord.com/users/909158608338571264) |
+| --- | --- | --- |
 
 ###  Motivation ✨
 
