@@ -5,7 +5,7 @@ By day, I build scalable cloud infrastructure and automated systems.
 
 By night, I train in MMA, boxing, and wrestling.
 
-🚀 Turning complex systems into smooth, resilient machines — because great systems, like great fighters, are built through pressure, consistency, and continuous improvement.
+Turning complex systems into smooth, resilient machines — because great systems, like great fighters, are built through pressure, consistency, and continuous improvement.
 
 ☕ Coffee-powered. Problem-driven. Always improving.
 
